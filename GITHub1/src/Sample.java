@@ -5,6 +5,7 @@ public class Sample {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Automation Testing");
+		System.out.println("AutoBuild progress");
 
 	}
 
